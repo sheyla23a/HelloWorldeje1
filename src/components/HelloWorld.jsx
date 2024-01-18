@@ -1,4 +1,4 @@
-const helloworld = () => {
+const Helloworld = () => {
   return (
     <section>
       <h1>Hello World!</h1>
@@ -6,4 +6,4 @@ const helloworld = () => {
   );
 };
 
-export default helloworld;
+export default Helloworld;

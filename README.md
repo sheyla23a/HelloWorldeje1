@@ -1,8 +1,11 @@
-# React + Vite
+# React Hello World Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto React consiste en un componente simple que muestra el mensaje "Hello World" en la pantalla.
+Ejercicio 1 del Tp de React donde , se incluyen prácticas relacionadas con componentes, ciclo de vida del componente y eventos.
 
-Currently, two official plugins are available:
+# Pasos para clonar el proyecto
+1- abre la terminal en el lugar que quieras, copia y pegas el siguiente codigo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/sheyla23a/HelloWorldeje1.git
+
+y luego tendras tu carpeta
